@@ -209,8 +209,8 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Feel free to contact me by filling out this form!
+#      text: |-
+#        Contact me!
       # Contact (add or remove contact options as necessary)
       email: chris.hammerly@ubc.ca
       appointment_url: ''
