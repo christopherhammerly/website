@@ -210,9 +210,9 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Feel free to contact me by filling out this form!
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: chris.hammerly@ubc.ca
       appointment_url: ''
       address:
         street: 2613 West Mall
