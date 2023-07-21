@@ -21,42 +21,42 @@ organizations:
 bio: My research interests include syntax and morphology, particularly the interface between our grammatical knowledge and processing abilities.
 
 interests:
-- Syntax \& Morphology
-- Psycholinguistics
-- Anishinaabemowin (Ojibwe)
+  - Syntax \& Morphology
+  - Psycholinguistics
+  - Anishinaabemowin (Ojibwe)
 
 education:
   courses:
-  - course: PhD in Linguistics
-    institution: UMass Amherst
-    year: 2020
-  - course: BA in Linguistics
-    institution: University of Minnesota
-    year: 2014
-  - course: BS in Psychology
-    institution: University of Minnesota
-    year: 2014
+    - course: PhD in Linguistics
+      institution: UMass Amherst
+      year: 2020
+    - course: BA in Linguistics
+      institution: University of Minnesota
+      year: 2014
+    - course: BS in Psychology
+      institution: University of Minnesota
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:chris.hammerly@ubc.ca"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/chrishammerly
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=qjEFbA8AAAAJ&hl=en
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/nfy6q/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/christopherhammerly
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:chris.hammerly@ubc.ca"  # For a direct email link, use  "mailto:test@example.org".
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/chrishammerly
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=qjEFbA8AAAAJ&hl=en
+  - icon: osf
+    icon_pack: ai
+    link: https://osf.io/nfy6q/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/christopherhammerly
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #- icon: cv
