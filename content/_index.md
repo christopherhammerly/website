@@ -240,16 +240,16 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: chris.hammerly@ubc.ca
 #      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      #appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 2613 West Mall
+        city: Vancouver
+        region: BC
+        postcode: 'V6T 1Z4'
+        country: Canada
+        country_code: CA
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
