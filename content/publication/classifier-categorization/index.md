@@ -38,9 +38,9 @@ featured: false
 
 url_pdf:
 url_code:
-url_dataset: https://osf.io/u3j4m/files/
+url_dataset:
 url_poster:
-url_project: https://osf.io/u3j4m/
+url_project:
 url_slides:
 url_source:
 url_video:
