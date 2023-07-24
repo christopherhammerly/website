@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A text-to-speech synthesis system for Border Lakes Ojibwe"
-authors: [admin, fougere, "Giancarlo Sierra"]
+authors: [admin, fougere, "Giancarlo Sierra", "Scott Parkhill", "Harrison Porteous", "Chad Quinn"]
 date: 2023-03-01T16:02:51-04:00
 doi: "https://aclanthology.org/2023.computel-1.9.pdf"
 
