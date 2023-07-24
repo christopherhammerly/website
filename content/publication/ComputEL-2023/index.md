@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A set-based representation of person features: Consequences for AGREE"
-authors: [admin, fougere]
+title: "A text-to-speech synthesis system for Border Lakes Ojibwe"
+authors: [admin, fougere, "Giancarlo Sierra"]
 date: 2023-03-01T16:02:51-04:00
-doi: ""
+doi: "https://aclanthology.org/2023.computel-1.9.pdf"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-03-01T16:02:51-04:00
@@ -16,10 +16,10 @@ publishDate: 2023-03-01T16:02:51-04:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Association for Computational Linguistics"
-publication_short: "ACL"
+publication: "ACL Anthology"
+publication_short: ""
 
-abstract: "This paper describes the development of a textto- speech synthesis system for Border Lakes Ojibwe, which is being deployed within a webbased language learning platform. We discuss our approach to community engagement, recording and editing transcribed sets of utterances for model training, the technical implementation of the speech synthesis model itself, how the system is being used by teachers and learners within the web-based platform, strategies for future extensions of this type of work to other Indigenous voices, dialects and languages, and possibilities for applications in additional educational contexts and beyond."
+abstract: "This paper describes the development of a text-to-speech synthesis system for Border Lakes Ojibwe, which is being deployed within a web-based language learning platform. We discuss our approach to community engagement, recording and editing transcribed sets of utterances for model training, the technical implementation of the speech synthesis model itself, how the system is being used by teachers and learners within the web-based platform, strategies for future extensions of this type of work to other Indigenous voices, dialects and languages, and possibilities for applications in additional educational contexts and beyond."
 
 # Summary. An optional shortened abstract.
 summary: ""
