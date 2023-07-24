@@ -4,7 +4,7 @@
 title: "Person-based prominence guides incremental interpretation: Evidence from obviation in Ojibwe"
 authors: [admin,staub,dillon]
 date: 2022-04-04T16:02:51-04:00
-doi: ""
+doi: "10.1016/j.cognition.2022.105122"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-04-04T16:02:51-04:00
