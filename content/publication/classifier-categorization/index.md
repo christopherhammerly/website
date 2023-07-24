@@ -16,7 +16,7 @@ publishDate: 2023-07-01T16:02:51-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Memory \& Cognition"
+publication: "Memory & Cognition"
 publication_short: ""
 
 abstract: "One of the central issues in cognition is identifying universal and culturally specific patterns of thought. In this study, we examined how one aspect of culture, a linguistic part of speech known as classifiers, are related to categorization of solid objects. In Experiment 1, we used a numeral classifier elicitation task to examine the classifiers used by speakers of Hmong, Japanese, and Mandarin Chinese (N = 34) with 135 nouns that referred to solid objects. In Experiment 2, adult speakers of English, Japanese, Mandarin Chinese, and Hmong (N = 64) rated the similarity of 39 pictured objects that depicted a subset of the nouns. All groups classified the objects into *natural kinds and artifacts*, with the category of *humans* anchoring both divisions. The main difference that emerged from the study was that speakers of Japanese and English rated *humans* and *animals* as more similar to each other than Hmong speakers; Mandarin speakers’ ratings of the similarity between *humans* and *animals* fell in between those of Hmong and English speakers. However, the pattern of categorization of *humans* and *animals* found among speakers of the classifier languages contradicted their patterns of classifier use. The findings help to tease apart the effects of language from other cultural factors that impact cognition."
