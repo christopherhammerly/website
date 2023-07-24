@@ -16,7 +16,7 @@ publishDate: 2023-01-01T16:02:51-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "A set-based semantics for obviation and animacy"
+publication: "Language"
 publication_short: ""
 
 abstract: "This paper provides a general analysis of the semantics of person, broadly construed, through a case study of Ojibwe (Central Algonquian). Ojibwe shows person-like
