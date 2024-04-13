@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The interaction/satisfaction distinction is redundant: A reply to {D}eal (2024) and {O}xford (2022)"
+title: "The interaction/satisfaction distinction is redundant: A reply to Deal (2024) and Oxford (2022)"
 authors: [admin]
 date: 2024-03-15T16:02:51-04:00
 doi: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
