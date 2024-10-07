@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The pronoun which comprehenders who process it in islands derive a benefit"
+title: "The relativized EPP: Evidence from agreement and word order in Border Lakes Ojibwe"
 authors: [admin]
 date: 2024-07-24T16:02:51-04:00
 doi: ""
