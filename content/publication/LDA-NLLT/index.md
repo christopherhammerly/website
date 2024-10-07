@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Linking agreement and movement: A case study of long distance agreement in Border Lakes Ojibwe"
+title: "On the interpretation of long-distance agreement in Border Lakes Ojibwe"
 authors: [admin,mathieu]
-date: 2024-07-24T16:02:51-04:00
+date: 2024-08-24T16:02:51-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-07-24T16:02:51-04:00
+publishDate: 2024-08-24T16:02:51-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +16,13 @@ publishDate: 2024-07-24T16:02:51-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "To appear in Linguistic Inquiry"
+publication: "To appear in Natural Language and Linguistic Theory"
 publication_short: ""
 
-abstract: "This paper argues for an extension of current models of Agree to capture relativized EPP effects, where a probe for movement targets an element with a specific set of features. We support the proposal through a case study of long distance agreement (LDA) in the Border Lakes dialect of Ojibwe (Central Algonquian), where the patterns of LDA depend on the particular combination of person/animacy features of the embedded arguments. This can be captured by the feeding and bleeding relationships between agreement and movement probes on Voice, Infl, and C."
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "The aim of this article is to show that Long Distance Agreement (LDA) in Border Lakes Ojibwe (Central Algonquian) correlates, not with topicality as claimed in past literature, but with evidentiality (direct evidence). Another important observation introduced in this article is that LDA in this language typically occurs in contexts involving verbs of perception and cognition marked as transitive animate. Based on these facts, we propose that these verbs are associated with a set of phi-features on matrix v while selecting an Evidential feature. The latter is associated with an EPP property allowing the embedded external or internal argument to raise to the specifier of embedded C. Finally, we show that LDA in Border Lakes Ojibwe has epistemic extensions, to do with probability and speaker’s commitment towards the information expressed and we propose that the evidential effect exhibited by LDA in the language under investigation is of the epistemic rather than illocutionary type. The finding that Ojibwe uses agreement to signal evidentiality adds to the set of existing evidential extensions of non-evidential categories (e.g. the perfect in Georgian, participles in Lithuanian, the conditional in French) while bolstering the view that verbal agreement can correlate with special semantics, beyond mere concordance."
 
 tags: ["agreement"]
 categories: []
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://ling.auf.net/lingbuzz/008289
+url_pdf: https://ling.auf.net/lingbuzz/008343
 url_code: 
 url_dataset:
 url_poster:
