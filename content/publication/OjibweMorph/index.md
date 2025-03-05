@@ -4,11 +4,11 @@
 title: "{O}jibweMorph: An approachable finite-state transducer
 for {O}jibwe (and beyond)"
 authors: [admin,livesay,arppe,stacey,silfverberg]
-date: 2025-05-01T16:02:51-04:00
+date: 2025-03-01T16:02:51-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-05-01T16:02:51-04:00
+publishDate: 2025-03-01T16:02:51-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
