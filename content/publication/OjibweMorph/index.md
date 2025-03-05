@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "{O}jibweMorph: An approachable finite-state transducer
-for {O}jibwe (and beyond)"
+title: "OjibweMorph: An approachable finite-state transducer
+for Ojibwe (and beyond)"
 authors: [admin,livesay,arppe,stacey,silfverberg]
 date: 2025-03-01T16:02:51-04:00
 doi: ""
