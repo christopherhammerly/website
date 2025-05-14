@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:"https://aclanthology.org/2025.americasnlp-1.3/"
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
