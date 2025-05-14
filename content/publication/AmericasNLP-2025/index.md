@@ -4,7 +4,7 @@
 title: "A hybrid Approach to low-resource machine translation for Ojibwe verbs"
 authors: ["Minh Nguyen", admin, silfverberg]
 date: 2025-04-01T16:02:51-04:00
-doi: "https://aclanthology.org/2025.americasnlp-1.3/"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-04-01T16:02:51-04:00
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf:"https://aclanthology.org/2025.americasnlp-1.3/"
 url_code:
 url_dataset:
 url_poster:
