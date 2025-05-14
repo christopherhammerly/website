@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Developing multilingual speech synthesis system for {O}jibwe, {M}i'kmaq, and {M}aliseet"
+title: "Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet"
 authors: ["Shenran Wang","Changbing Yang","Mike Parkhill","Chad Quinn",admin,"Jian Zhu"]
 date: 2025-04-04T16:02:51-04:00
 doi: ""
