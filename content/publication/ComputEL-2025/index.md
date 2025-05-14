@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A text-to-speech synthesis system for Border Lakes Ojibwe"
-authors: [admin, fougere, "Giancarlo Sierra", "Scott Parkhill", "Harrison Porteous", "Chad Quinn"]
-date: 2023-03-01T16:02:51-04:00
-doi: "https://aclanthology.org/2023.computel-1.9.pdf"
+title: "Evaluating Indigenous language speech synthesis for education: A participatory design workshop on Ojibwe text-to-speech"
+authors: ["Viann Sum Yat Chan",admin]
+date: 2025-02-01T16:02:51-04:00
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-03-01T16:02:51-04:00
+publishDate: 2025-03-01T16:02:51-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,15 +16,15 @@ publishDate: 2023-03-01T16:02:51-04:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the Sixth Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-6)"
-publication_short: "ComputEL-6"
+publication: "Proceedings of the Eight Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-8)"
+publication_short: "ComputEL-8"
 
-abstract: "This paper describes the development of a text-to-speech synthesis system for Border Lakes Ojibwe, which is being deployed within a web-based language learning platform. We discuss our approach to community engagement, recording and editing transcribed sets of utterances for model training, the technical implementation of the speech synthesis model itself, how the system is being used by teachers and learners within the web-based platform, strategies for future extensions of this type of work to other Indigenous voices, dialects and languages, and possibilities for applications in additional educational contexts and beyond."
+abstract: "This paper reports methods and results from a participatory design workshop aimed at evaluating the use of speech synthesis and text-to-speech for Ojibwe language education. Using an existing text-to-speech feature as a starting point, we worked with two groups of Ojibwe language instructors using a guided trial of the speech synthesis system and a two hour semistructured workshop with the aim of creating a lesson plan that utilizes text-to-speech. We highlight the insights from this work, both in how to design and deliver speech synthesis systems for Indigenous language education, but also how to approach and design such a workshop to ensure a fruitful discourse."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["deep learning", "TTS", "Ojibwe", "Algonquian", "language revitalization"]
+tags: ["community engaged", "TTS", "Ojibwe", "Algonquian", "language revitalization"]
 categories: []
 featured: false
 

@@ -16,8 +16,8 @@ publishDate: 2025-04-01T16:02:51-04:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACL Anthology"
-publication_short: ""
+publication: "Proceedings of the Fifth Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)"
+publication_short: "AmericasNLP"
 
 abstract: "Machine translation is a tool that can help teachers, learners, and users of low-resourced languages. However, there are significant challenges in developing these tools, such as the lack of large-scale parallel corpora and complex morphology. We propose a novel hybrid system that combines LLM and rule-based methods in two distinct stages to translate inflected Ojibwe verbs into English. We use an LLM to automatically annotate dictionary data to build translation templates. Then, our rulebased module performs translation using inflection and slot-filling processes built on top of an FST-based analyzer. We test the system with a set of automated tests. Thanks to the ahead-of-time nature of the template-building process and the light-weight rule-based translation module, the end-to-end translation process has an average translation speed of 70 milliseconds per word. The system achieved an average ChrF score of 0.82 and a semantic similarity score of 0.93 among the successfully translated verbs in a test set. The approach has the potential to be extended to other low-resource Indigenous languages with dictionary data."
 
