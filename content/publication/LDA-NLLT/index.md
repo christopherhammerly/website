@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://ling.auf.net/lingbuzz/008343
+url_pdf: https://link.springer.com/article/10.1007/s11049-024-09644-2
 url_code: 
 url_dataset:
 url_poster:

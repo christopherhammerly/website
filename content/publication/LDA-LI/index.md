@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://ling.auf.net/lingbuzz/008289
+url_pdf: https://direct.mit.edu/ling/article/doi/10.1162/ling_a_00541/123826/Linking-Agreement-and-Movement-A-Case-Study-of
 url_code: 
 url_dataset:
 url_poster:
