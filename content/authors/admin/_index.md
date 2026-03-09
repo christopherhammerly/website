@@ -28,6 +28,7 @@ bio: My research interests include syntax and morphology, particularly the inter
 interests:
   - Morphosyntax
   - Psycholinguistics
+  - Computational linguistics
   - Anishinaabemowin (Ojibwe)
 
 # Education to show in About widget
@@ -52,9 +53,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:chris.hammerly@ubc.ca"  # For a direct email link, use  "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/chrishammerly
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=qjEFbA8AAAAJ&hl=en
