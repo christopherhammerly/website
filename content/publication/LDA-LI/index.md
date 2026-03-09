@@ -3,11 +3,11 @@
 
 title: "Linking agreement and movement: A case study of long distance agreement in Border Lakes Ojibwe"
 authors: [admin,mathieu]
-date: 2024-07-24T16:02:51-04:00
+date: 2025-07-24T16:02:51-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-07-24T16:02:51-04:00
+publishDate: 2025-07-24T16:02:51-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2024-07-24T16:02:51-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "To appear in Linguistic Inquiry"
+publication: "Linguistic Inquiry"
 publication_short: ""
 
 abstract: "This paper argues for an extension of current models of Agree to capture relativized EPP effects, where a probe for movement targets an element with a specific set of features. We support the proposal through a case study of long distance agreement (LDA) in the Border Lakes dialect of Ojibwe (Central Algonquian), where the patterns of LDA depend on the particular combination of person/animacy features of the embedded arguments. This can be captured by the feeding and bleeding relationships between agreement and movement probes on Voice, Infl, and C."

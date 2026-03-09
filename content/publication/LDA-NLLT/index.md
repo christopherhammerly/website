@@ -3,11 +3,11 @@
 
 title: "On the interpretation of long-distance agreement in Border Lakes Ojibwe"
 authors: [admin,mathieu]
-date: 2024-08-24T16:02:51-04:00
+date: 2025-08-24T16:02:51-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-08-24T16:02:51-04:00
+publishDate: 2025-08-24T16:02:51-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2024-08-24T16:02:51-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "To appear in Natural Language and Linguistic Theory"
+publication: "Natural Language and Linguistic Theory"
 publication_short: ""
 
 abstract: "The aim of this article is to show that Long Distance Agreement (LDA) in Border Lakes Ojibwe (Central Algonquian) correlates, not with topicality as claimed in past literature, but with evidentiality (direct evidence). Another important observation introduced in this article is that LDA in this language typically occurs in contexts involving verbs of perception and cognition marked as transitive animate. Based on these facts, we propose that these verbs are associated with a set of phi-features on matrix v while selecting an Evidential feature. The latter is associated with an EPP property allowing the embedded external or internal argument to raise to the specifier of embedded C. Finally, we show that LDA in Border Lakes Ojibwe has epistemic extensions, to do with probability and speaker’s commitment towards the information expressed and we propose that the evidential effect exhibited by LDA in the language under investigation is of the epistemic rather than illocutionary type. The finding that Ojibwe uses agreement to signal evidentiality adds to the set of existing evidential extensions of non-evidential categories (e.g. the perfect in Georgian, participles in Lithuanian, the conditional in French) while bolstering the view that verbal agreement can correlate with special semantics, beyond mere concordance."
