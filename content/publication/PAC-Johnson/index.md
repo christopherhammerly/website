@@ -2,12 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Variation in Prosodic Structure Across Algonquian"
-authors: ["Natalie Weber", "Antti Arppe", "Ksenia Bogomolets", "Andrew Cowell", "Rose-Marie Déchaine", admin, "Sarah E. Murray", "Katherine Schmirler", "Rachel Vogel"]
-date: 2026-02-01T16:02:51-04:00
+authors: ["Hunter Johnson", admin]
+date: 2024-02-01T16:02:51-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2026-02-01T16:02:51-04:00
+publishDate: 2024-02-01T16:02:51-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2026-02-01T16:02:51-04:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Papers of the Fifty-Fifth Algonquian Conference"
+publication: "Papers of the Fifty-Third Algonquian Conference"
 publication_short: ""
 
 abstract: ""
