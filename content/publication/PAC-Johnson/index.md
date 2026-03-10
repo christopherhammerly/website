@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Variation in Prosodic Structure Across Algonquian"
+title: "Noun Composition in Mille Lacs Ojibwe"
 authors: ["Hunter Johnson", admin]
 date: 2024-02-01T16:02:51-04:00
 doi: ""

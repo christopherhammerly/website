@@ -1,30 +1,30 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A verb raising analysis of the Ojibwe VOS/VSO alternation: Lessons for feature copying and movement"
-authors: [admin]
-date: 2021-02-07T16:02:51-04:00
+title: "Refining the Phonological Analysis of Ojibwe Nominal Inflection Classes"
+authors: ["Reed Steiner",admin]
+date: 2026-02-01T16:02:51-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-04-23T16:02:51-04:00
+publishDate: 2026-02-01T16:02:51-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Review"
+publication: "Papers of the Fifty-Fifth Algonquian Conference"
 publication_short: ""
 
-abstract: "This paper explores patterns of agreement and word order in the Central Algonquian language Border Lakes Ojibwe. This variety of Ojibwe shows alternations between VOS and VSO word orders and complex interactions between probes on v, Voice, Infl, and C. I show that the behavior of lower probes feeds and bleeds the possible feature copying and movement relations on each subsequent probe. There are three major components to the analysis: (i) post-syntactic verb raising to C, deriving V1 and the complex verbal morphophonology; (ii) an extension of the interaction/satisfaction representation of Deal (2015, 2020) to encode a relativized EPP that captures variation and restrictions on movement and the possibility of movement and feature copying being independent, and (iii) a reformulation of the Activity Condition (Chomsky 2000, 2001) to capture reverse omnivority, where a probe agrees with lower ranked arguments over higher ranked arguments regardless of whether it is a subject or object. The account provides a strong case for Ojibwe as a configurational language, and is shown to capture variation in agreement and word order in the Algonquian family and beyond."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["syntax","formal theory","algonquian"]
+tags: []
 categories: []
 featured: false
 
