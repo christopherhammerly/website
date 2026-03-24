@@ -3,11 +3,11 @@
 
 title: "Reconciling animacy and noun class in Bantu"
 authors: ["Claire Halpert",admin]
-date: 2026-04-23T16:02:51-04:00
+date: 2026-03-24T16:02:51-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2026-04-23T16:02:51-04:00
+publishDate: 2026-03-23T16:02:51-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
