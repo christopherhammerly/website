@@ -16,7 +16,7 @@ publishDate: 2026-03-23T16:02:51-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Glossa"
+publication: "Glossa: a journal of general linguistics"
 publication_short: ""
 
 abstract: "This squib investigates the relationship between animacy and the noun class system of Bantu languages. Combining facts from various animacy-sensitive phenomena across the family, including anti-agreement, animacy override, and agreement resolution under conjunction, we argue that the featural properties of Bantu nouns directly encode a prominence hierarchy. We show that all nouns, regardless of the noun class expressed on the surface, are underlyingly specified for a core noun class, which encodes whether a noun is a human (class 1/2), non-human animate (class 9/10), or inanimate (class 7/8). We propose that core noun class is morphologically encoded by the final vowel found on many Bantu nouns, and syntactically encoded by the nominal categorizing head n using the features [±Animate] and [±Human]. We further argue that core noun class can be obscured by the stacking of multiple n’s within the nominal spine, creating a mismatch between the morphophonological expression of class within a noun versus the expression in agreement. We discuss the consequences of this proposal for the wider theory of Bantu noun class and theories of agreement."
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "https://doi.org/10.16995/glossa.17968"
 url_code: 
 url_dataset:
 url_poster:
