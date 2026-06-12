@@ -3,11 +3,11 @@
 
 title: "The relativized EPP: Evidence from agreement and word order in Border Lakes Ojibwe"
 authors: [admin]
-date: 2024-07-24T16:02:51-04:00
-doi: ""
+date: 2026-06-12T16:02:51-04:00
+doi: "https://doi.org/10.1017/cnj.2025.10014"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-07-24T16:02:51-04:00
+publishDate: 2026-06-11T16:02:51-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2024-07-24T16:02:51-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "To appear in Canadian Journal of Linguistics"
+publication: "Canadian Journal of Linguistics"
 publication_short: ""
 
 abstract: "This paper explores patterns of agreement and word order in the Central Algonquian language Border Lakes Ojibwe. This variety of Ojibwe shows alternations between VOS and VSO word orders and complex interactions between probes on Voice, Infl, and C. I show that the behavior of lower probes feeds and bleeds the possible agreement and movement relations on each subsequent probe. These complex interactions culminate with the peripheral agreement marker on C, which shows a curious pattern that I dub reverse omnivority, where the probe agrees with lower ranked arguments over higher ranked arguments regardless of whether it is a logical subject or object. The core theoretical innovation is an extension of the syntactic operation Agree to encode a relativized EPP, which captures variation and restrictions on movement and the possibility of movement and feature copying being independent. The account provides a strong case for Ojibwe as a configurational language, and is shown to capture variation in agreement and word order in various corners of Ojibwe and beyond."
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://ling.auf.net/lingbuzz/008288
+url_pdf: "https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/relativized-epp-evidence-from-agreement-and-word-order-in-border-lakes-ojibwe/C7C8B1258C797972007E754D0EA13033"
 url_code:
 url_dataset:
 url_poster:
