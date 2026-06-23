@@ -4,7 +4,7 @@
 title: "Reconciling animacy and noun class in Bantu"
 authors: ["Claire Halpert",admin]
 date: 2026-03-24T16:02:51-04:00
-doi: ""
+doi: "https://doi.org/10.16995/glossa.17968"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2026-03-23T16:02:51-04:00
