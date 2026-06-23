@@ -7,7 +7,7 @@ date: 2026-06-23T16:02:51-04:00
 doi: "https://doi.org/10.16995/labphon.18470"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2026-06-23T16:02:51-04:00
+publishDate: 2026-06-22T16:02:51-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
